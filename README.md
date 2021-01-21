@@ -10,17 +10,5 @@ Grafikinterface um generierte Logs zu filtern und zu analysieren
 Logger der die Aufrufe aus der DES in eine .txt Datei oder in die Console schreibt
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-###### ~~50 Punkte:~~
-~~danke lg~~🚬
+Sehr geehrter Herr Buschermöhle,
+ich möchte mich hiermit für den Changelog entschuldigen.
