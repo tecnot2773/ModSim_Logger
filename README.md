@@ -9,6 +9,3 @@ Grafikinterface um generierte Logs zu filtern und zu analysieren
 ### Logging:
 Logger der die Aufrufe aus der DES in eine .txt Datei oder in die Console schreibt
 
-
-Sehr geehrter Herr Buschermöhle,
-ich möchte mich hiermit für den Changelog entschuldigen.
